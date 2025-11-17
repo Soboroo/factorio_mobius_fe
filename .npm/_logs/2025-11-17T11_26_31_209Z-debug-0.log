@@ -1,0 +1,18 @@
+0 verbose cli /opt/homebrew/Cellar/node/24.7.0/bin/node /opt/homebrew/bin/npm
+1 info using npm@11.5.1
+2 info using node@v24.7.0
+3 silly config load:file:/opt/homebrew/lib/node_modules/npm/npmrc
+4 silly config load:file:/Users/hyodong/Downloads/dh_pingxin/.npmrc
+5 silly config load:file:/opt/homebrew/etc/npmrc
+6 verbose title npm run dev
+7 verbose argv "run" "dev"
+8 verbose logfile logs-max:10 dir:/Users/hyodong/Downloads/dh_pingxin/.npm/_logs/2025-11-17T11_26_31_209Z-
+9 verbose logfile /Users/hyodong/Downloads/dh_pingxin/.npm/_logs/2025-11-17T11_26_31_209Z-debug-0.log
+10 silly logfile done cleaning log files
+11 http fetch GET https://registry.npmjs.org/npm attempt 1 failed with ENOTFOUND
+12 verbose cwd /Users/hyodong/Downloads/dh_pingxin
+13 verbose os Darwin 24.6.0
+14 verbose node v24.7.0
+15 verbose npm  v11.5.1
+16 verbose exit 1
+17 verbose code 1
